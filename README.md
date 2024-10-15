@@ -14,6 +14,7 @@ Movies: http://127.0.0.1:8000/movies/
 Collection: http://127.0.0.1:8000/collection/
 
 createcollection http://127.0.0.1:8000/createcollection/
+
 Register: http://127.0.0.1:8000/register/
 
 Request Count: http://127.0.0.1:8000/request-count/
